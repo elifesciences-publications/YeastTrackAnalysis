@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # by Joh Schoeneberg 2018
 
 from scipy import stats
